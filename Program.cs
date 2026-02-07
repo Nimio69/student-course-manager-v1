@@ -111,3 +111,6 @@ class Program
     }
 }
 //Well that's finally done...
+/*I made this project to practice C# and SQL concepts
+ including CRUD operations and relational databases.*/
+
